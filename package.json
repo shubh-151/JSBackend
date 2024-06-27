@@ -1,0 +1,19 @@
+{
+  "name": "jsbackend",
+  "version": "1.0.0",
+  "description": "A basic app for backend to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "JS"
+  ],
+  "author": "shubham shukla",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
